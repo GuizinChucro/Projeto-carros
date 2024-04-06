@@ -9,7 +9,7 @@ export default function App() {
         <Sedans/>
         <SUVs/>
         <Luxuosos/>
-      </d>
+      </div>
     </main>
   )
 }
